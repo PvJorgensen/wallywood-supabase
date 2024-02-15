@@ -1,0 +1,22 @@
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+.news {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    article {
+        display: flex;
+        gap: 1rem;
+        width: 100%;
+        background-color: red;
+    }
+}
+
+h2 {
+    color: #d97852;
+    font-size: 2rem;
+}

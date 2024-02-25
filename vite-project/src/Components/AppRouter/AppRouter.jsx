@@ -4,7 +4,7 @@ import { Home } from "../../Pages/Home/Home"
 // import { PosterDetails } from "../Posters/PosterDetails"
 import { PosterList } from "../PosterList/PosterList.jsx"
 import { PageNotFound } from "../../Pages/PageNotFound/PageNotFound"
-import { PosterPage } from "../PosterPage/PosterPage.jsx"
+import { PosterPage } from "../../Pages/PosterPage/PosterPage.jsx"
 // import { Om } from "../../Pages/Om/Om"
 // import { Login } from "../../Pages/Login/Login"
 

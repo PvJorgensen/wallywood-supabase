@@ -14,6 +14,7 @@ export const PosterList = () => {
                 .from("genres")
                 .select("id, title, posters(id,name,slug,image,price)")
                 .eq("slug", genreSlug)
+
             if (error) {
                 console.error("Error fetching posters")
             } else {
